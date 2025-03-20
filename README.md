@@ -7,5 +7,5 @@ I'm Xiang Lin, a senior at Beijing Institute of Technology. I've been recommende
 - **Frameworks and Tools**: Spring / Maven / Gradle / Retrofit / Room / Pytorch
 
 ## 📫 Contact Me
-- **GitHub**: [XiangLin](https://github.com/Jacoblincc)]
+- **GitHub**: [XiangLin(https://github.com/Jacoblincc)]
 - **Email**: 1120213595@bit.edu.cn
